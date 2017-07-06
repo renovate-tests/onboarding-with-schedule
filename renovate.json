@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "timezone": null,
-  "schedule": [],
+  "schedule": ["on sunday"],
   "packageFiles": [],
   "depTypes": [
     {"depType": "dependencies", "semanticPrefix": "fix: "},
